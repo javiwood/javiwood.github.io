@@ -20,4 +20,3 @@ The DevOps tools I will focus on will be:
  - Selenium
 
  Hard work and endless nights after a full time role as an BI/Alteryx Developer.
-
